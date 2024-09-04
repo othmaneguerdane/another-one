@@ -24,7 +24,7 @@ for(i=1;i<n;i++){
         max=t[i];
     }
 }
-printf("max=%d",max);
+printf("max=%d",max),
 
 return 0;
 }
